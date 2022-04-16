@@ -1,5 +1,5 @@
 # Movie App
 
-Movie App React Practise
+React Practise
 
 This project deployed with heroku >> https://firebase-movie-app-project.herokuapp.com/
