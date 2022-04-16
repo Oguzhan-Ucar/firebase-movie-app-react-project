@@ -1,1 +1,1 @@
-This project is located at: https://movie-app-oguzhan.herokuapp.com/
+This project is located at: https://firebase-movie-app-project.herokuapp.com/
